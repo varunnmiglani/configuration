@@ -1,2 +1,2 @@
 redis:
-  cache: true
+  cache: yes
